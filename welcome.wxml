@@ -1,0 +1,14 @@
+<view class="container">
+    <text class="motto">天下万物皆可抛
+    唯美食与爱不可辜负
+    美食
+    是时光烙在我们味蕾上的记忆
+    吃在嘴里 
+    记在心里
+    ✪ω✪
+
+</text>
+    <view catchtap="onTapJump" class="journey-container">
+        <text class="journey">开启吃货之旅</text>
+    </view>
+</view>

@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/welcome/welcome",
+    "pages/index/index",
+    "pages/class/logs",
+    "pages/home/home",
+    "pages/index/list",
+    "pages/class/list",
+    "pages/index/detailMethod",
+    "pages/w/w",
+    "pages/w/device/device"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#918597",
+    "navigationBarTitleText": "市井珍馐",
+    "navigationBarTextStyle": "#ffffff",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "摇摇菜",
+        "iconPath": "pages/img/yg.png",
+        "selectedIconPath": "pages/img/yc.png"
+      },
+      {
+        "pagePath": "pages/class/logs",
+        "text": "分类菜",
+        "iconPath": "pages/img/fc.png",
+        "selectedIconPath": "pages/img/fg.png"
+      },
+      {
+        "pagePath": "pages/home/home",
+        "text": "我的菜",
+        "iconPath": "pages/img/home_gray.png",
+        "selectedIconPath": "pages/img/home.png"
+      },
+      {
+        "pagePath": "pages/w/w",
+        "text": "我",
+        "iconPath": "pages/img/w _gray.jpg",
+        "selectedIconPath": "pages/img/w.jpg"
+      }
+    ],
+    "backgroundColor": "#F7FCF5",
+    "borderStyle": "white",
+    "selectedColor": "#918597",
+    "color": "#bfbfbf",
+    "position": "bottom"
+  }
+}

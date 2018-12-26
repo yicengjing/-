@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+.avatar{
+    width:400rpx;
+    height:400rpx;
+    margin-top:10rpx;
+}
+
+.motto{
+    margin-top:50rpx;
+    font-size:40rpx;
+    font-weight: bold;
+    color:rgb(126, 84, 84);
+    text-align:center;
+}
+
+.journey-container{
+    margin-top: 100rpx;
+    border: 1px solid rgb(126, 84, 84);
+    width: 300rpx;
+    height: 150rpx;
+    border-radius: 5px;
+    text-align:center;
+}
+
+.journey{
+    font-size:40rpx;
+    font-weight: bold;
+    line-height:150rpx;
+    color: rgb(126, 84, 84);
+}
+
+
+page{
+    background-color:rgba(240, 18, 36, 0);
+}
